@@ -4,19 +4,6 @@ import os
 import sys
 import string
 
-def get_corpus_data():
-    f = open("corpus/data.csv")    # format: <student>, <subject>, <gender>, <age>
-    lines = f.readlines()
-    f.close()
-
-    to_fields_list = lambda x: x.strip().split(",")
-    to_fields_dict = lambda x: {"student": x[0], "subject": x[1], "gender": x[2], "age": x[3]}
-
-    lines = map(to_fields_list, lines)
-    dicts = map(to_fields_dict, lines)
-
-    return dicts
-
 def mean_word_length(ipu_filename):
     f = open(ipu_filename)
     lines = f.readlines()
@@ -51,19 +38,39 @@ def mean_f0(csv_filename):
     f0s   = map(float, f0s)
     mean  = sum(f0s) / len(f0s)
 
-    print mean
+    return mean
+
+def load_corpus_data():
+    f = open("corpus/data.csv")    # format: <student>, <subject>, <gender>, <age>
+    lines = f.readlines()
+    f.close()
+
+    to_fields_list = lambda x: x.strip().split(",")
+    to_fields_dict = lambda x: {"student": x[0], "subject": x[1], "gender": x[2], "age": x[3]}
+
+    lines = map(to_fields_list, lines)
+    dicts = map(to_fields_dict, lines)
+
+    return dicts
 
 def find_datum_in_corpus(student, subject, corpus):
     for datum in corpus:
         if datum["student"] == student and datum["subject"] == subject:
             return datum
 
-    raise Error(filename + " doesn't match any subject in the corpus.")
+    raise Exception(student + "-" + subject + " not found in the corpus.")
 
 def get_filename_info(filename):
     return {"student": filename.split("-")[0],
             "subject": filename.split("-")[1][0],
             "task":    filename.split("-")[1][1]}
+
+def analyze_directory(dirname, function, key_suffix, corpus_data):
+    for fn in os.listdir(dirname):
+        fn_info        = get_filename_info(fn)
+        datum          = find_datum_in_corpus(fn_info["student"], fn_info["subject"], corpus_data)
+        new_key        = "task_" + fn_info["task"] + "_" + key_suffix
+        datum[new_key] = function(dirname + "/" + fn)
 
 def main():
     # if len(sys.argv) < 2:
@@ -73,28 +80,10 @@ def main():
     #     print "    bar: documentation"
     #     return
 
-    filenames = os.listdir("corpus/csvs")
-    fn = filenames[0]
-    print fn
-    mean_f0("corpus/csvs/" + fn)
-    return
-
-
-    corpus_data = get_corpus_data()
-
-    filenames = os.listdir("corpus/ipus")
-    
-    for fn in filenames:
-        fn_info = get_filename_info(fn)
-
-        datum = find_datum_in_corpus(fn_info["student"],
-                                     fn_info["subject"],
-                                     corpus_data)
-
-        datum["task_" + fn_info["task"] + "_mean_word_length"] = mean_word_length("corpus/ipus/" + fn)
-
+    corpus_data = load_corpus_data()
+    analyze_directory("corpus/ipus", mean_word_length, "mean_word_length", corpus_data)
+    analyze_directory("corpus/csvs", mean_f0, "mean_f0", corpus_data)
 
     print corpus_data
-
 
 if __name__ == '__main__': main()
