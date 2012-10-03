@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 48.26229024943311 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 48.26229024943311 
+        intervals: size = 46 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.491976575156858 
+            text = "ciudad de buenos aires" 
+        intervals [2]:
+            xmin = 1.491976575156858 
+            xmax = 2.059476073953971 
+            text = "#" 
+        intervals [3]:
+            xmin = 2.059476073953971 
+            xmax = 2.7795292014599853 
+            text = "lunes" 
+        intervals [4]:
+            xmin = 2.7795292014599853 
+            xmax = 3.758923497771131 
+            text = "#" 
+        intervals [5]:
+            xmin = 3.758923497771131 
+            xmax = 4.487541089141258 
+            text = "soleado" 
+        intervals [6]:
+            xmin = 4.487541089141258 
+            xmax = 5.564569707826101 
+            text = "#" 
+        intervals [7]:
+            xmin = 5.564569707826101 
+            xmax = 7.702782835839898 
+            text = "temperatura veintitrés grados" 
+        intervals [8]:
+            xmin = 7.702782835839898 
+            xmax = 8.184852302560024 
+            text = "#" 
+        intervals [9]:
+            xmin = 8.184852302560024 
+            xmax = 10.188536332940378 
+            text = "humedad cuarenta por ciento" 
+        intervals [10]:
+            xmin = 10.188536332940378 
+            xmax = 10.749933686589134 
+            text = "#" 
+        intervals [11]:
+            xmin = 10.749933686589134 
+            xmax = 12.557810177097501 
+            text = "vientos leves del este" 
+        intervals [12]:
+            xmin = 12.557810177097501 
+            xmax = 13.497540529944331 
+            text = "#" 
+        intervals [13]:
+            xmin = 13.497540529944331 
+            xmax = 14.329073796715731 
+            text = "martes" 
+        intervals [14]:
+            xmin = 14.329073796715731 
+            xmax = 14.744019666803942 
+            text = "#" 
+        intervals [15]:
+            xmin = 14.744019666803942 
+            xmax = 16.117259291807887 
+            text = "parcialmente nublado" 
+        intervals [16]:
+            xmin = 16.117259291807887 
+            xmax = 16.75798453238527 
+            text = "#" 
+        intervals [17]:
+            xmin = 16.75798453238527 
+            xmax = 18.54837538694278 
+            text = "temperatura veinte grados" 
+        intervals [18]:
+            xmin = 18.54837538694278 
+            xmax = 18.795512265451198 
+            text = "#" 
+        intervals [19]:
+            xmin = 18.795512265451198 
+            xmax = 20.69686935015755 
+            text = "humedad sesenta por ciento" 
+        intervals [20]:
+            xmin = 20.69686935015755 
+            xmax = 21.71897866250718 
+            text = "#" 
+        intervals [21]:
+            xmin = 21.71897866250718 
+            xmax = 23.562904215166466 
+            text = "vientos moderados del este" 
+        intervals [22]:
+            xmin = 23.562904215166466 
+            xmax = 24.893171857508072 
+            text = "#" 
+        intervals [23]:
+            xmin = 24.893171857508072 
+            xmax = 25.926050976429472 
+            text = "rio gallegos" 
+        intervals [24]:
+            xmin = 25.926050976429472 
+            xmax = 26.133523911473578 
+            text = "#" 
+        intervals [25]:
+            xmin = 26.133523911473578 
+            xmax = 26.722380918289932 
+            text = "lunes" 
+        intervals [26]:
+            xmin = 26.722380918289932 
+            xmax = 27.192246094713344 
+            text = "#" 
+        intervals [27]:
+            xmin = 27.192246094713344 
+            xmax = 28.034342125186473 
+            text = "nublado" 
+        intervals [28]:
+            xmin = 28.034342125186473 
+            xmax = 28.348602600326807 
+            text = "#" 
+        intervals [29]:
+            xmin = 28.348602600326807 
+            xmax = 30.354516927918283 
+            text = "temperatura veintidós grados" 
+        intervals [30]:
+            xmin = 30.354516927918283 
+            xmax = 30.94947607988299 
+            text = "#" 
+        intervals [31]:
+            xmin = 30.94947607988299 
+            xmax = 33.06243491419454 
+            text = "humedad setenta por ciento" 
+        intervals [32]:
+            xmin = 33.06243491419454 
+            xmax = 33.538402235766306 
+            text = "#" 
+        intervals [33]:
+            xmin = 33.538402235766306 
+            xmax = 36.61773030072921 
+            text = "vientos moderados a fuertes del sudoeste" 
+        intervals [34]:
+            xmin = 36.61773030072921 
+            xmax = 37.27676197675165 
+            text = "#" 
+        intervals [35]:
+            xmin = 37.27676197675165 
+            xmax = 37.99373906980659 
+            text = "martes" 
+        intervals [36]:
+            xmin = 37.99373906980659 
+            xmax = 38.59785143949383 
+            text = "#" 
+        intervals [37]:
+            xmin = 38.59785143949383 
+            xmax = 39.46822789849764 
+            text = "y lluvias" 
+        intervals [38]:
+            xmin = 39.46822789849764 
+            xmax = 40.057084905313985 
+            text = "#" 
+        intervals [39]:
+            xmin = 40.057084905313985 
+            xmax = 42.21832202981893 
+            text = "temperatura dieciséis grados" 
+        intervals [40]:
+            xmin = 42.21832202981893 
+            xmax = 42.663778625648916 
+            text = "#" 
+        intervals [41]:
+            xmin = 42.663778625648916 
+            xmax = 44.84527057844042 
+            text = "humedad noventa por ciento " 
+        intervals [42]:
+            xmin = 44.84527057844042 
+            xmax = 45.58445089262342 
+            text = "#" 
+        intervals [43]:
+            xmin = 45.58445089262342 
+            xmax = 46.41017330300921 
+            text = "vientos" 
+        intervals [44]:
+            xmin = 46.41017330300921 
+            xmax = 46.6115440918971 
+            text = "#" 
+        intervals [45]:
+            xmin = 46.6115440918971 
+            xmax = 47.76484951916415 
+            text = "fuertes de sur" 
+        intervals [46]:
+            xmin = 47.76484951916415 
+            xmax = 48.26229024943311 
+            text = "#" 

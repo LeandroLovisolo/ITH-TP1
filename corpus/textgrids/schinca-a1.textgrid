@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 53.35845804988662 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 53.35845804988662 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.657904458329815 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.657904458329815 
+            xmax = 8.061386107967577 
+            text = "el lunes en la ciudad de buenos aires el día va a estar soleado la temperatura va a ser de aproximadamente veintitrés grados centígrados" 
+        intervals [3]:
+            xmin = 8.061386107967577 
+            xmax = 8.566614105871723 
+            text = "#" 
+        intervals [4]:
+            xmin = 8.566614105871723 
+            xmax = 12.633588545338966 
+            text = "la humedad del cuarenta por ciento y los vientos van a venir leves del este" 
+        intervals [5]:
+            xmin = 12.633588545338966 
+            xmax = 13.21469760398752 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.21469760398752 
+            xmax = 15.268762482018976 
+            text = "el martes eh va a estar" 
+        intervals [7]:
+            xmin = 15.268762482018976 
+            xmax = 15.757493990141391 
+            text = "#" 
+        intervals [8]:
+            xmin = 15.757493990141391 
+            xmax = 23.52866436400624 
+            text = "soleado quizás algo nublado por la tarde la humedad va a ser del sesenta por ciento la temperatura eh veinte grados" 
+        intervals [9]:
+            xmin = 23.52866436400624 
+            xmax = 23.9240424737539 
+            text = "#" 
+        intervals [10]:
+            xmin = 23.9240424737539 
+            xmax = 26.426710615659427 
+            text = "y los vientos van a venir moderados del este" 
+        intervals [11]:
+            xmin = 26.426710615659427 
+            xmax = 26.967540448830484 
+            text = "#" 
+        intervals [12]:
+            xmin = 26.967540448830484 
+            xmax = 33.06785712663512 
+            text = "en río grallegos el lunes va a estar nublado la temperatura va a ser de veintidós grados centígrados" 
+        intervals [13]:
+            xmin = 33.06785712663512 
+            xmax = 33.42673512201337 
+            text = "#" 
+        intervals [14]:
+            xmin = 33.42673512201337 
+            xmax = 35.575701871785014 
+            text = "la humedad de setenta por ciento" 
+        intervals [15]:
+            xmin = 35.575701871785014 
+            xmax = 35.80512487885047 
+            text = "#" 
+        intervals [16]:
+            xmin = 35.80512487885047 
+            xmax = 38.7358419753763 
+            text = "y los vientos moderados a fuertes del sudoeste" 
+        intervals [17]:
+            xmin = 38.7358419753763 
+            xmax = 39.215796670139696 
+            text = "#" 
+        intervals [18]:
+            xmin = 39.215796670139696 
+            xmax = 41.341905093604204 
+            text = "y el martes va a haber lluvia" 
+        intervals [19]:
+            xmin = 41.341905093604204 
+            xmax = 41.851094714301205 
+            text = "#" 
+        intervals [20]:
+            xmin = 41.851094714301205 
+            xmax = 44.73561253252452 
+            text = "por la mañana va a estar nublado por la tarde va a llover" 
+        intervals [21]:
+            xmin = 44.73561253252452 
+            xmax = 45.003872035869904 
+            text = "#" 
+        intervals [22]:
+            xmin = 45.003872035869904 
+            xmax = 50.824052557164336 
+            text = "la temperatura va a ser de dieciséis grados centígrados la humedad del noventa por ciento y los vientus" 
+        intervals [23]:
+            xmin = 50.824052557164336 
+            xmax = 51.113511927693494 
+            text = "#" 
+        intervals [24]:
+            xmin = 51.113511927693494 
+            xmax = 52.9786961268281 
+            text = "los vientos fuertes van a venir del sur" 
+        intervals [25]:
+            xmin = 52.9786961268281 
+            xmax = 53.35845804988662 
+            text = "#" 

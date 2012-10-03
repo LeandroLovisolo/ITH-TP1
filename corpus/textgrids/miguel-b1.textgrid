@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 30.00018140589569 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 30.00018140589569 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5954569629714812 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.5954569629714812 
+            xmax = 6.822932238960441 
+            text = "ciudad de buenos aires lunes temperatura veintitres grados humedad cuarenta porciento vientos leves del este" 
+        intervals [3]:
+            xmin = 6.822932238960441 
+            xmax = 7.358490950181774 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.358490950181774 
+            xmax = 12.18084703296556 
+            text = "martes temperatura veinte grados humeadad sesenta porciento vientos moderados del este" 
+        intervals [5]:
+            xmin = 12.18084703296556 
+            xmax = 12.679303813972776 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.679303813972776 
+            xmax = 17.503152314478807 
+            text = "rio gallegos lunes temperatura veintidos grados humedad setenta porciento" 
+        intervals [7]:
+            xmin = 17.503152314478807 
+            xmax = 17.834560069350935 
+            text = "#" 
+        intervals [8]:
+            xmin = 17.834560069350935 
+            xmax = 20.41314501035189 
+            text = "vientos moderados a fuertes del sudoeste" 
+        intervals [9]:
+            xmin = 20.41314501035189 
+            xmax = 20.901535370952836 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.901535370952836 
+            xmax = 25.599743948222166 
+            text = "martes temperatura dieciseis grados humedad noventa porciento vientos fuertes del sur" 
+        intervals [11]:
+            xmin = 25.599743948222166 
+            xmax = 30.00018140589569 
+            text = "#" 

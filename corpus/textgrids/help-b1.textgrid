@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 37.825 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 37.825 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7728660962374263 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.7728660962374263 
+            xmax = 6.509434388724775 
+            text = "este lunes en la ciudad de buenos aires vamos a tener una temperatura de veintitrés grados con una humedad del cuarenta por ciento y" 
+        intervals [3]:
+            xmin = 6.509434388724775 
+            xmax = 6.833980281314215 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.833980281314215 
+            xmax = 7.912876149280127 
+            text = "vientos leves del este" 
+        intervals [5]:
+            xmin = 7.912876149280127 
+            xmax = 8.851427839299253 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.851427839299253 
+            xmax = 14.125050764034828 
+            text = "el martes vamos a tener una temperatura de veinte grados con una humedad del sesenta por ciento y vientos moderados del este" 
+        intervals [7]:
+            xmin = 14.125050764034828 
+            xmax = 16.22711862473861 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.22711862473861 
+            xmax = 17.571947378441774 
+            text = "con temperatur- emh" 
+        intervals [9]:
+            xmin = 17.571947378441774 
+            xmax = 18.162235173260232 
+            text = "#" 
+        intervals [10]:
+            xmin = 18.162235173260232 
+            xmax = 19.057700877565676 
+            text = " con clima nublado" 
+        intervals [11]:
+            xmin = 19.057700877565676 
+            xmax = 19.66479626422467 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.66479626422467 
+            xmax = 19.6875623230211 
+            text = "en río gallegos este lunes" 
+        intervals [13]:
+            xmin = 19.6875623230211 
+            xmax = 21.205300836949824 
+            text = "en río gallegos este lunes" 
+        intervals [14]:
+            xmin = 21.205300836949824 
+            xmax = 21.40260682484806 
+            text = "#" 
+        intervals [15]:
+            xmin = 21.40260682484806 
+            xmax = 25.39737272640983 
+            text = "va a estar completamente nublado con una temperatura de veintidos grados humedad setenta" 
+        intervals [16]:
+            xmin = 25.39737272640983 
+            xmax = 25.620177425085817 
+            text = "#" 
+        intervals [17]:
+            xmin = 25.620177425085817 
+            xmax = 26.233688772692812 
+            text = "por ciento" 
+        intervals [18]:
+            xmin = 26.233688772692812 
+            xmax = 26.631818476990965 
+            text = "#" 
+        intervals [19]:
+            xmin = 26.631818476990965 
+            xmax = 28.449509008187825 
+            text = "vientos moderados a fuertes del sudoeste" 
+        intervals [20]:
+            xmin = 28.449509008187825 
+            xmax = 29.219661550928517 
+            text = "#" 
+        intervals [21]:
+            xmin = 29.219661550928517 
+            xmax = 29.846226331463317 
+            text = "el martes" 
+        intervals [22]:
+            xmin = 29.846226331463317 
+            xmax = 30.05508125830825 
+            text = "#" 
+        intervals [23]:
+            xmin = 30.05508125830825 
+            xmax = 31.112409325460725 
+            text = "llo- con lluvias" 
+        intervals [24]:
+            xmin = 31.112409325460725 
+            xmax = 32.20361298069838 
+            text = "#" 
+        intervals [25]:
+            xmin = 32.20361298069838 
+            xmax = 36.036888636418745 
+            text = "y una temperatura de dieciseis grados humedad del noventa por ciento vientos fuertes del sur" 
+        intervals [26]:
+            xmin = 36.036888636418745 
+            xmax = 37.825 
+            text = "#" 

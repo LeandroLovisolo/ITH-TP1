@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 35.89800453514739 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 35.89800453514739 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.6436538719519396 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.6436538719519396 
+            xmax = 10.348886023610042 
+            text = "ciudad de buenos aires lunes con sol temperatura veintitres grados humedad cuarenta porciento vientos leves del este" 
+        intervals [3]:
+            xmin = 10.348886023610042 
+            xmax = 10.904838060472434 
+            text = "#" 
+        intervals [4]:
+            xmin = 10.904838060472434 
+            xmax = 11.620296289448309 
+            text = "martes" 
+        intervals [5]:
+            xmin = 11.620296289448309 
+            xmax = 11.928413336963464 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.928413336963464 
+            xmax = 13.228771723934212 
+            text = "nublado con sol" 
+        intervals [7]:
+            xmin = 13.228771723934212 
+            xmax = 13.568222708484809 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.568222708484809 
+            xmax = 15.559169278029602 
+            text = "temperatura veinte porciento" 
+        intervals [9]:
+            xmin = 15.559169278029602 
+            xmax = 16.332073058237118 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.332073058237118 
+            xmax = 19.117844517322677 
+            text = "humedad sesenta porciento vientos moderados del este" 
+        intervals [11]:
+            xmin = 19.117844517322677 
+            xmax = 19.593075895693513 
+            text = "#" 
+        intervals [12]:
+            xmin = 19.593075895693513 
+            xmax = 27.441164616015026 
+            text = "rio gallegos lunes nublado temperatura veintidos grados humedad setenta porciento y vientos moderados a fuertes del sudoeste" 
+        intervals [13]:
+            xmin = 27.441164616015026 
+            xmax = 28.010397805492182 
+            text = "#" 
+        intervals [14]:
+            xmin = 28.010397805492182 
+            xmax = 30.54789914488148 
+            text = "y martes lluvias temperatura dieciseis grados" 
+        intervals [15]:
+            xmin = 30.54789914488148 
+            xmax = 30.793348318325755 
+            text = "#" 
+        intervals [16]:
+            xmin = 30.793348318325755 
+            xmax = 33.123792602160094 
+            text = "grados humedad noventa porciento" 
+        intervals [17]:
+            xmin = 33.123792602160094 
+            xmax = 33.33268551498081 
+            text = "#" 
+        intervals [18]:
+            xmin = 33.33268551498081 
+            xmax = 34.53904208652041 
+            text = "vientos fuertes del sur" 
+        intervals [19]:
+            xmin = 34.53904208652041 
+            xmax = 35.89800453514739 
+            text = "#" 

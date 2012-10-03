@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 35.294331065759636 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 35.294331065759636 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.273301956199675 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.273301956199675 
+            xmax = 8.989903680750006 
+            text = "en la ciudad de buenos aires el lunes habrá una temperatura de veintitres grados centígrados una humedad del cuarenta por ciento y vientos leves del este" 
+        intervals [3]:
+            xmin = 8.989903680750006 
+            xmax = 9.595752576479164 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.595752576479164 
+            xmax = 14.123675902454979 
+            text = "el martes la temperatura será de veinte grados la humedad del sesenta porciento" 
+        intervals [5]:
+            xmin = 14.123675902454979 
+            xmax = 14.50631731028392 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.50631731028392 
+            xmax = 16.03688294159969 
+            text = "y vientos moderados del este" 
+        intervals [7]:
+            xmin = 16.03688294159969 
+            xmax = 16.6108450533431 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.6108450533431 
+            xmax = 22.318579386791484 
+            text = "en río gallegos el lunes la temperatura será de veintidos grados centígrados la humedad de setenta porciento" 
+        intervals [9]:
+            xmin = 22.318579386791484 
+            xmax = 22.701220794620426 
+            text = "#" 
+        intervals [10]:
+            xmin = 22.701220794620426 
+            xmax = 25.443484217394513 
+            text = "y habrá vientos moderados a fuertes del sudoeste" 
+        intervals [11]:
+            xmin = 25.443484217394513 
+            xmax = 25.953672761166434 
+            text = "#" 
+        intervals [12]:
+            xmin = 25.953672761166434 
+            xmax = 31.055558198885663 
+            text = "el martes la temperatura será de dieciseis grados centígrados la humedad del noventa porciento" 
+        intervals [13]:
+            xmin = 31.055558198885663 
+            xmax = 31.38176087917878 
+            text = "#" 
+        intervals [14]:
+            xmin = 31.38176087917878 
+            xmax = 32.84121810208739 
+            text = "y vientos fuertes del sur" 
+        intervals [15]:
+            xmin = 32.84121810208739 
+            xmax = 35.294331065759636 
+            text = "#" 

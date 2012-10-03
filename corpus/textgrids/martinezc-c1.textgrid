@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 24.305034013605443 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 24.305034013605443 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3563357722215574 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.3563357722215574 
+            xmax = 6.264375412986031 
+            text = "ciudad de buenos aires lunes temperatura veintitres grados humedad cuarenta por ciento vientos leves del este" 
+        intervals [3]:
+            xmin = 6.264375412986031 
+            xmax = 6.837536202545281 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.837536202545281 
+            xmax = 12.12595847244766 
+            text = "martes temperatura veinte grados humedad sesenta por cien- por ciento vientos moderados del este" 
+        intervals [5]:
+            xmin = 12.12595847244766 
+            xmax = 12.44474050998636 
+            text = "#" 
+        intervals [6]:
+            xmin = 12.44474050998636 
+            xmax = 16.263932133967753 
+            text = "rio gallegos lunes temperatura veintidos grados humedad setenta por ciento" 
+        intervals [7]:
+            xmin = 16.263932133967753 
+            xmax = 16.64135050791899 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.64135050791899 
+            xmax = 18.646288117657104 
+            text = "vientos moderados a fuertes del sudoeste " 
+        intervals [9]:
+            xmin = 18.646288117657104 
+            xmax = 19.30476673466983 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.30476673466983 
+            xmax = 23.515546197470343 
+            text = "temperatura dieciseis grados humedad noventa por ciento vientos fuertes del sur martes" 
+        intervals [11]:
+            xmin = 23.515546197470343 
+            xmax = 24.305034013605443 
+            text = "#" 

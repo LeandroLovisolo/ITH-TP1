@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 31.021875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 31.021875 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6694715094007557 
+            text = "buenos aires" 
+        intervals [2]:
+            xmin = 0.6694715094007557 
+            xmax = 1.0265401437167905 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.0265401437167905 
+            xmax = 7.1356598690147655 
+            text = "para el dia lunes tendremos un dia soleado con temperaturas de veintitres grados humedad del cuatenta porciento vientos leves del este" 
+        intervals [4]:
+            xmin = 7.1356598690147655 
+            xmax = 7.824685754790125 
+            text = "#" 
+        intervals [5]:
+            xmin = 7.824685754790125 
+            xmax = 11.83097007358446 
+            text = "para el dia martes dia parcialmente nublado temperauras que llegaran a los veinte grados" 
+        intervals [6]:
+            xmin = 11.83097007358446 
+            xmax = 12.093902431580812 
+            text = "#" 
+        intervals [7]:
+            xmin = 12.093902431580812 
+            xmax = 14.634155430009223 
+            text = "humedad del sesenta porciento vientos moderados del este" 
+        intervals [8]:
+            xmin = 14.634155430009223 
+            xmax = 15.341800541653727 
+            text = "#" 
+        intervals [9]:
+            xmin = 15.341800541653727 
+            xmax = 18.400229940263685 
+            text = "en cuanto a rio gallegos tendremos para el dia lunes un dia nublado" 
+        intervals [10]:
+            xmin = 18.400229940263685 
+            xmax = 18.624209356334653 
+            text = "#" 
+        intervals [11]:
+            xmin = 18.624209356334653 
+            xmax = 23.032250055535656 
+            text = "con temperatura de veintidos grados humedad del setenta vientos moderados a fuertes del sudoeste" 
+        intervals [12]:
+            xmin = 23.032250055535656 
+            xmax = 23.69445006826721 
+            text = "#" 
+        intervals [13]:
+            xmin = 23.69445006826721 
+            xmax = 25.827747080638325 
+            text = "cambiando para el dia martes un dia lluvioso" 
+        intervals [14]:
+            xmin = 25.827747080638325 
+            xmax = 26.11340198809115 
+            text = "#" 
+        intervals [15]:
+            xmin = 26.11340198809115 
+            xmax = 28.521992230477494 
+            text = "de temperatura de dieciseis grados humedad del noventa porciento" 
+        intervals [16]:
+            xmin = 28.521992230477494 
+            xmax = 28.723249097091987 
+            text = "#" 
+        intervals [17]:
+            xmin = 28.723249097091987 
+            xmax = 29.92431080221464 
+            text = "vientos fuertes del sur" 
+        intervals [18]:
+            xmin = 29.92431080221464 
+            xmax = 31.021875 
+            text = "#" 

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60.19775 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 60.19775 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.160067071436574 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.160067071436574 
+            xmax = 5.1665953543388445 
+            text = "el clima de la ciudad de buenos aires es templado pampeano húmedo" 
+        intervals [3]:
+            xmin = 5.1665953543388445 
+            xmax = 5.788528877560687 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.788528877560687 
+            xmax = 13.424777638689049 
+            text = "considerando el período mil nueve sesenta y uno mil nueve noventa normalmente empleado para designar los promedios climáticos" 
+        intervals [5]:
+            xmin = 13.424777638689049 
+            xmax = 13.913024516732364 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.913024516732364 
+            xmax = 22.190565758540142 
+            text = "la temperatura moi media es de diecisiete coma seis grados centigrados y la precipitación anual es de mil ciento cuarenta y seis mililitros" 
+        intervals [7]:
+            xmin = 22.190565758540142 
+            xmax = 22.982647351357627 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.982647351357627 
+            xmax = 24.40119515599334 
+            text = "a lo largo del siglo veinte" 
+        intervals [9]:
+            xmin = 24.40119515599334 
+            xmax = 24.990131116770577 
+            text = "#" 
+        intervals [10]:
+            xmin = 24.990131116770577 
+            xmax = 31.570502205098236 
+            text = "las temperaturas de la ciudad han aumentado considerablemente debido a la isla de calor desarrollo urbano" 
+        intervals [11]:
+            xmin = 31.570502205098236 
+            xmax = 32.08116186729116 
+            text = "#" 
+        intervals [12]:
+            xmin = 32.08116186729116 
+            xmax = 38.27994872364403 
+            text = "siendo actualmente dos grados centigrados superior al de regiones cercanas mucho menos urbanizadas" 
+        intervals [13]:
+            xmin = 38.27994872364403 
+            xmax = 39.16708010759961 
+            text = "#" 
+        intervals [14]:
+            xmin = 39.16708010759961 
+            xmax = 42.18457054871162 
+            text = "fundamentalmente las temperaturas nocturnas" 
+        intervals [15]:
+            xmin = 42.18457054871162 
+            xmax = 42.690256445341554 
+            text = "#" 
+        intervals [16]:
+            xmin = 42.690256445341554 
+            xmax = 45.219626905972994 
+            text = "son las que han aumentado lo que en verano" 
+        intervals [17]:
+            xmin = 45.219626905972994 
+            xmax = 45.707921911427526 
+            text = "#" 
+        intervals [18]:
+            xmin = 45.707921911427526 
+            xmax = 48.8328208171699 
+            text = "suele dificultar el descanso nocturno de los porteños" 
+        intervals [19]:
+            xmin = 48.8328208171699 
+            xmax = 49.67048689847279 
+            text = "#" 
+        intervals [20]:
+            xmin = 49.67048689847279 
+            xmax = 53.91447381614261 
+            text = "las precipitaciones también se han acrecentado desde mil nueve setenta y tres" 
+        intervals [21]:
+            xmin = 53.91447381614261 
+            xmax = 54.42886092112525 
+            text = "#" 
+        intervals [22]:
+            xmin = 54.42886092112525 
+            xmax = 60.052243463700016 
+            text = "como ya ocurrió en el anterior hemiciclo húmedo mil ochocientos setenta a mil novecientos veinte" 
+        intervals [23]:
+            xmin = 60.052243463700016 
+            xmax = 60.19775 
+            text = "#" 
+    item [2]:
+        class = "TextTier" 
+        name = "Tier2" 
+        xmin = 0 
+        xmax = 60.19775 
+        points: size = 0 

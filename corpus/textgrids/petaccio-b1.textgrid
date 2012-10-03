@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 39.232 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 39.232 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.023402218552241175 
+            text = "" 
+        intervals [2]:
+            xmin = 0.023402218552241175 
+            xmax = 0.28263522499744237 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.28263522499744237 
+            xmax = 4.194696958625024 
+            text = "el pronóstico para la ciudad de Buenos Aires para el dia lunes es soleado" 
+        intervals [4]:
+            xmin = 4.194696958625024 
+            xmax = 4.453929965070225 
+            text = "respira" 
+        intervals [5]:
+            xmin = 4.453929965070225 
+            xmax = 6.504227379682271 
+            text = "temperatura veinti tres grados" 
+        intervals [6]:
+            xmin = 6.504227379682271 
+            xmax = 6.645627201379654 
+            text = "#" 
+        intervals [7]:
+            xmin = 6.645627201379654 
+            xmax = 8.295291787849115 
+            text = "humedad cuarenta por ciento" 
+        intervals [8]:
+            xmin = 8.295291787849115 
+            xmax = 8.743057889890826 
+            text = "#" 
+        intervals [9]:
+            xmin = 8.743057889890826 
+            xmax = 8.860891074638646 
+            text = " " 
+        intervals [10]:
+            xmin = 8.860891074638646 
+            xmax = 10.981888400099383 
+            text = "vientos leves del sector este" 
+        intervals [11]:
+            xmin = 10.981888400099383 
+            xmax = 11.241121406544583 
+            text = "#" 
+        intervals [12]:
+            xmin = 11.241121406544583 
+            xmax = 17.39201365038072 
+            text = "para el martes eh parcialmente nublado temperatura veinte grados humedad sesenta por ciento" 
+        intervals [13]:
+            xmin = 17.39201365038072 
+            xmax = 17.745513204624174 
+            text = "#" 
+        intervals [14]:
+            xmin = 17.745513204624174 
+            xmax = 19.34804451719451 
+            text = "vientos moderados del este" 
+        intervals [15]:
+            xmin = 19.34804451719451 
+            xmax = 19.98434371483273 
+            text = "#" 
+        intervals [16]:
+            xmin = 19.98434371483273 
+            xmax = 26.724401882407964 
+            text = "en Rio Gallegos para el lunes va a estar nublado la temperatura veintidos grados humedad setenta por ciento" 
+        intervals [17]:
+            xmin = 26.724401882407964 
+            xmax = 27.054334799701856 
+            text = "#" 
+        intervals [18]:
+            xmin = 27.054334799701856 
+            xmax = 29.505265042456486 
+            text = "vientos moderados a fuertes del sudoeste" 
+        intervals [19]:
+            xmin = 29.505265042456486 
+            xmax = 30.088309285945922 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.088309285945922 
+            xmax = 33.599738189902745 
+            text = "y para el martes lluvioso temperatura dieciseis grados" 
+        intervals [21]:
+            xmin = 33.599738189902745 
+            xmax = 33.88253783317444 
+            text = "#" 
+        intervals [22]:
+            xmin = 33.88253783317444 
+            xmax = 35.6500356036225 
+            text = "humedad noventa por ciento" 
+        intervals [23]:
+            xmin = 35.6500356036225 
+            xmax = 35.97996852077281 
+            text = "#" 
+        intervals [24]:
+            xmin = 35.97996852077281 
+            xmax = 38.85509822736833 
+            text = "vient- vientos fuertes del sector sur" 
+        intervals [25]:
+            xmin = 38.85509822736833 
+            xmax = 39.161464507579325 
+            text = "#" 
+        intervals [26]:
+            xmin = 39.161464507579325 
+            xmax = 39.232 
+            text = "" 

@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 30 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 30 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3576097729404051 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.3576097729404051 
+            xmax = 7.62978029485244 
+            text = "en la ciudad de buenos aires el dia lunes la temperatura sera de veintitres grados humedad cuarenta por ciento vientos leves del este" 
+        intervals [3]:
+            xmin = 7.62978029485244 
+            xmax = 7.925663086929998 
+            text = "#" 
+        intervals [4]:
+            xmin = 7.925663086929998 
+            xmax = 13.803470689117496 
+            text = "para el dias martes se espera una temperatura de veinte grados humedad sesenta por ciento vientos moderados del este" 
+        intervals [5]:
+            xmin = 13.803470689117496 
+            xmax = 14.516122241393559 
+            text = "#" 
+        intervals [6]:
+            xmin = 14.516122241393559 
+            xmax = 22.220247380650665 
+            text = "para el dia lunes en rio gallegos la temperatura sera de veintidos grados humedad del setenta por ciento con vientos moderados a fuertes del sudoeste" 
+        intervals [7]:
+            xmin = 22.220247380650665 
+            xmax = 22.670403677346854 
+            text = "#" 
+        intervals [8]:
+            xmin = 22.670403677346854 
+            xmax = 28.13882756893079 
+            text = "para el dia martes la temperatura sera de dieciseis grados humedad noventa por ciento vientos fuertes del sur" 
+        intervals [9]:
+            xmin = 28.13882756893079 
+            xmax = 30 
+            text = "#" 

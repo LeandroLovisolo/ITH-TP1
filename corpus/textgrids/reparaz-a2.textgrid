@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 49 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 49 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32032274935290583 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.32032274935290583 
+            xmax = 9.404351930645674 
+            text = "el clima de la ciudad de buenos aires es templado pampeano húmedo considerando el período mil nueve sesenta y uno mil nueve noventa normalmente empleado para designar los promedios climáticos " 
+        intervals [3]:
+            xmin = 9.404351930645674 
+            xmax = 9.859977218735594 
+            text = "#" 
+        intervals [4]:
+            xmin = 9.859977218735594 
+            xmax = 16.751309701095625 
+            text = "la temperatura media es de diecisiete coma seis grados y la precipitación anual es de mil ciento cuarenta y seis milimetro " 
+        intervals [5]:
+            xmin = 16.751309701095625 
+            xmax = 17.520177374747366 
+            text = "#" 
+        intervals [6]:
+            xmin = 17.520177374747366 
+            xmax = 23.4148295394107 
+            text = "a lo largo del siglo veinte las temperaturas de la ciudad han aumentado considerablemente debido a la isla de calor" 
+        intervals [7]:
+            xmin = 23.4148295394107 
+            xmax = 24.012837730028718 
+            text = "#" 
+        intervals [8]:
+            xmin = 24.012837730028718 
+            xmax = 26.860495780590714 
+            text = "desarrollo urbano siendo actualmente dos grados centigrados " 
+        intervals [9]:
+            xmin = 26.860495780590714 
+            xmax = 27.287644488175015 
+            text = "#" 
+        intervals [10]:
+            xmin = 27.287644488175015 
+            xmax = 30.802341875568793 
+            text = "superior al de regiones cercanas mucho menos urbanizadas " 
+        intervals [11]:
+            xmin = 30.802341875568793 
+            xmax = 31.34885491643915 
+            text = "#" 
+        intervals [12]:
+            xmin = 31.34885491643915 
+            xmax = 39.267480040539425 
+            text = "fundamentalmente las temperaturas nocturnas son las que m- han aumentado lo que en verano suele dificultar el descanso nocturno de los porteños " 
+        intervals [13]:
+            xmin = 39.267480040539425 
+            xmax = 39.710125400331975 
+            text = "#" 
+        intervals [14]:
+            xmin = 39.710125400331975 
+            xmax = 48.66630934240412 
+            text = "las precipitaciones también s- se han acrecentado desde mil nueve setenta y tres como ya ocurrió en el anterior hemiciclo húmedo mil ocho setenta mil nueve veinte" 
+        intervals [15]:
+            xmin = 48.66630934240412 
+            xmax = 49 
+            text = "#" 
+    item [2]:
+        class = "TextTier" 
+        name = "borrar" 
+        xmin = 0 
+        xmax = 49 
+        points: size = 0 

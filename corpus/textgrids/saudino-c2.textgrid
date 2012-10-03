@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60.48798185941043 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 60.48798185941043 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5224011444501503 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.5224011444501503 
+            xmax = 4.295499229697014 
+            text = "el clima de la ciudad de buenos aires es templado pampeano húmedo" 
+        intervals [3]:
+            xmin = 4.295499229697014 
+            xmax = 4.834513241875137 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.834513241875137 
+            xmax = 8.976410388085979 
+            text = "considerando el período mil novecientos sesenta y uno mil novecientos noventa" 
+        intervals [5]:
+            xmin = 8.976410388085979 
+            xmax = 9.420860538478466 
+            text = "#" 
+        intervals [6]:
+            xmin = 9.420860538478466 
+            xmax = 12.777774924803756 
+            text = "normalmente empleado para designar los promedios climáticos" 
+        intervals [7]:
+            xmin = 12.777774924803756 
+            xmax = 13.089835668696354 
+            text = "#" 
+        intervals [8]:
+            xmin = 13.089835668696354 
+            xmax = 16.399570831193604 
+            text = "la temperatura media es de diecisiete coma seis centígrados" 
+        intervals [9]:
+            xmin = 16.399570831193604 
+            xmax = 16.777826278336146 
+            text = "#" 
+        intervals [10]:
+            xmin = 16.777826278336146 
+            xmax = 20.56973442887536 
+            text = "y la precipitación anual es de mil ciento cuarenta y seis milímetros" 
+        intervals [11]:
+            xmin = 20.56973442887536 
+            xmax = 21.326245323160446 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.326245323160446 
+            xmax = 23.51067053040863 
+            text = "a lo largo largo del siglo veinte " 
+        intervals [13]:
+            xmin = 23.51067053040863 
+            xmax = 23.85110043283692 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.85110043283692 
+            xmax = 28.186776465409725 
+            text = "las temperaturas de la ciudad han aumentado considerablemente debido a la isla" 
+        intervals [15]:
+            xmin = 28.186776465409725 
+            xmax = 28.517749981659453 
+            text = "#" 
+        intervals [16]:
+            xmin = 28.517749981659453 
+            xmax = 28.99056929058763 
+            text = "de calor" 
+        intervals [17]:
+            xmin = 28.99056929058763 
+            xmax = 29.170240627980338 
+            text = "#" 
+        intervals [18]:
+            xmin = 29.170240627980338 
+            xmax = 30.163161176729513 
+            text = "desarrollo urbano" 
+        intervals [19]:
+            xmin = 30.163161176729513 
+            xmax = 30.66434964419338 
+            text = "#" 
+        intervals [20]:
+            xmin = 30.66434964419338 
+            xmax = 36.879469591372604 
+            text = "siendo actualmente dos centígrados superior d- al de regiones cercanas mucho menos urbanizadas" 
+        intervals [21]:
+            xmin = 36.879469591372604 
+            xmax = 37.56032939622918 
+            text = "#" 
+        intervals [22]:
+            xmin = 37.56032939622918 
+            xmax = 40.0283434817695 
+            text = "fundamentalmente las temperaturas nocturnas " 
+        intervals [23]:
+            xmin = 40.0283434817695 
+            xmax = 40.40659892891204 
+            text = "#" 
+        intervals [24]:
+            xmin = 40.40659892891204 
+            xmax = 41.796687697160884 
+            text = "son las que han aumentado" 
+        intervals [25]:
+            xmin = 41.796687697160884 
+            xmax = 42.30733255080332 
+            text = "#" 
+        intervals [26]:
+            xmin = 42.30733255080332 
+            xmax = 46.269558359621456 
+            text = "lo que en verano suele dificultar el descanso nocturno de los porteños" 
+        intervals [27]:
+            xmin = 46.269558359621456 
+            xmax = 46.85812853055535 
+            text = "#" 
+        intervals [28]:
+            xmin = 46.85812853055535 
+            xmax = 48.05908957523292 
+            text = "las precipitaciones" 
+        intervals [29]:
+            xmin = 48.05908957523292 
+            xmax = 48.862882400410825 
+            text = "#" 
+        intervals [30]:
+            xmin = 48.862882400410825 
+            xmax = 52.27663781087227 
+            text = "también se han acrecentado desde mil novecientos setenta y tres" 
+        intervals [31]:
+            xmin = 52.27663781087227 
+            xmax = 52.74945711980045 
+            text = "#" 
+        intervals [32]:
+            xmin = 52.74945711980045 
+            xmax = 54.295499229697015 
+            text = "como ya ocurrió en el anterior" 
+        intervals [33]:
+            xmin = 54.295499229697015 
+            xmax = 54.99527180691072 
+            text = "#" 
+        intervals [34]:
+            xmin = 54.99527180691072 
+            xmax = 56.13003814833835 
+            text = "he- hemiciclo" 
+        intervals [35]:
+            xmin = 56.13003814833835 
+            xmax = 56.46101166458807 
+            text = "#" 
+        intervals [36]:
+            xmin = 56.46101166458807 
+            xmax = 58.55087301005062 
+            text = "húmedo mil no- ochocientos setenta" 
+        intervals [37]:
+            xmin = 58.55087301005062 
+            xmax = 58.70217518890764 
+            text = "#" 
+        intervals [38]:
+            xmin = 58.70217518890764 
+            xmax = 60.05078927917241 
+            text = "a mil novecientos veinte" 
+        intervals [39]:
+            xmin = 60.05078927917241 
+            xmax = 60.48798185941043 
+            text = "#" 

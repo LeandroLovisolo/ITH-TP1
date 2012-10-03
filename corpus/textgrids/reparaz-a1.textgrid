@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 36.00326530612245 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 36.00326530612245 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6335651349147254 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.6335651349147254 
+            xmax = 4.620286405701521 
+            text = "el pronostico para la ciudad de buenos aires del lunes" 
+        intervals [3]:
+            xmin = 4.620286405701521 
+            xmax = 5.64544330390384 
+            text = "#" 
+        intervals [4]:
+            xmin = 5.64544330390384 
+            xmax = 12.33743972272453 
+            text = "sera d- una temperatura de veintitres grados humedad del cuarenta porciento y ven- vientos leves del este " 
+        intervals [5]:
+            xmin = 12.33743972272453 
+            xmax = 13.049354235365032 
+            text = "#" 
+        intervals [6]:
+            xmin = 13.049354235365032 
+            xmax = 18.573810853455306 
+            text = "el martes temperatura del- de veinte grados humedad del sesenta por ciento vientos moderados del este" 
+        intervals [7]:
+            xmin = 18.573810853455306 
+            xmax = 20.140022781264403 
+            text = "#" 
+        intervals [8]:
+            xmin = 20.140022781264403 
+            xmax = 28.711473513456014 
+            text = "en rio gallegos el lunes temperatura de vientidos grados humedad de setenta porciento y vientos moderados a fuertes del sudoeste" 
+        intervals [9]:
+            xmin = 28.711473513456014 
+            xmax = 29.822060153175194 
+            text = "#" 
+        intervals [10]:
+            xmin = 29.822060153175194 
+            xmax = 34.83281823157232 
+            text = "martes temperatura de dieciseis grados humedad del noventa porciento y vientos fuertes del sur " 
+        intervals [11]:
+            xmin = 34.83281823157232 
+            xmax = 36.00326530612245 
+            text = "#" 
+    item [2]:
+        class = "TextTier" 
+        name = "borrar" 
+        xmin = 0 
+        xmax = 36.00326530612245 
+        points: size = 0 

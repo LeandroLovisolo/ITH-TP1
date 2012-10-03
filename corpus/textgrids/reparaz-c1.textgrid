@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 38.749750566893425 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 38.749750566893425 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5406760120528925 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.5406760120528925 
+            xmax = 1.629009521296645 
+            text = "ciudad de buenos aires " 
+        intervals [3]:
+            xmin = 1.629009521296645 
+            xmax = 1.959326357583652 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.959326357583652 
+            xmax = 7.75165368834159 
+            text = "para el lunes se espera un dia soleado temperatura de veintitres grados humedad cuarenta porciento vientos leves del este" 
+        intervals [5]:
+            xmin = 7.75165368834159 
+            xmax = 8.07939129201986 
+            text = "#" 
+        intervals [6]:
+            xmin = 8.07939129201986 
+            xmax = 11.38219285831217 
+            text = "para el dia martes es- el tiempo estará soleado" 
+        intervals [7]:
+            xmin = 11.38219285831217 
+            xmax = 11.607792601848868 
+            text = "#" 
+        intervals [8]:
+            xmin = 11.607792601848868 
+            xmax = 18.757341721275175 
+            text = "y un poco nubleado temperaturas veint- veinte grado centigrados humedad del sesenta porciento vientos moderados del este" 
+        intervals [9]:
+            xmin = 18.757341721275175 
+            xmax = 19.16403748895875 
+            text = "#" 
+        intervals [10]:
+            xmin = 19.16403748895875 
+            xmax = 21.008417695630698 
+            text = "para rio gallegos para el lunes" 
+        intervals [11]:
+            xmin = 21.008417695630698 
+            xmax = 21.284583656263305 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.284583656263305 
+            xmax = 22.6611606880947 
+            text = "el tiempo estara nublado " 
+        intervals [13]:
+            xmin = 22.6611606880947 
+            xmax = 22.91859847067096 
+            text = "#" 
+        intervals [14]:
+            xmin = 22.91859847067096 
+            xmax = 28.786299399173306 
+            text = "abrá una temperatura de veintidos grados humedad setenta porciento vientos moderados a fuertes del sudoeste" 
+        intervals [15]:
+            xmin = 28.786299399173306 
+            xmax = 29.119671895575653 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.119671895575653 
+            xmax = 32.50794944689284 
+            text = "y para el martes se pre- ve- pronostica" 
+        intervals [17]:
+            xmin = 32.50794944689284 
+            xmax = 32.83938823281356 
+            text = "#" 
+        intervals [18]:
+            xmin = 32.83938823281356 
+            xmax = 37.96818288175226 
+            text = "eh lluvias temperatura de dieciseis grados humedad de noventa porciento vientos fuertes del sur" 
+        intervals [19]:
+            xmin = 37.96818288175226 
+            xmax = 38.749750566893425 
+            text = "#" 
+    item [2]:
+        class = "TextTier" 
+        name = "borrar" 
+        xmin = 0 
+        xmax = 38.749750566893425 
+        points: size = 0 

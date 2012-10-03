@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.922721088435374 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 19.922721088435374 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5647102167292637 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.5647102167292637 
+            xmax = 4.336594783574316 
+            text = "en la ciudad de buenos aires el pronostico del día lunes" 
+        intervals [3]:
+            xmin = 4.336594783574316 
+            xmax = 4.534586538348964 
+            text = "#" 
+        intervals [4]:
+            xmin = 4.534586538348964 
+            xmax = 5.866531070469313 
+            text = "es despejado " 
+        intervals [5]:
+            xmin = 5.866531070469313 
+            xmax = 6.136519826980195 
+            text = "#" 
+        intervals [6]:
+            xmin = 6.136519826980195 
+            xmax = 8.602417136446249 
+            text = "el del día martes es parcialmente nublado" 
+        intervals [7]:
+            xmin = 8.602417136446249 
+            xmax = 9.070397647731777 
+            text = "#" 
+        intervals [8]:
+            xmin = 9.070397647731777 
+            xmax = 17.15206109262417 
+            text = "en río gallegos el día lunes el pronostico del día lunes es nublado y el del día martes eh inestable con proba- con probabilidad de chaparrones" 
+        intervals [9]:
+            xmin = 17.15206109262417 
+            xmax = 19.922721088435374 
+            text = "#" 

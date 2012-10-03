@@ -1,0 +1,178 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 77.504 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 77.504 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9949741242038216 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.9949741242038216 
+            xmax = 5.982343840474812 
+            text = "el cilma de la ciudad de buenos aires es templado pampeano húmedo" 
+        intervals [3]:
+            xmin = 5.982343840474812 
+            xmax = 6.614545635495078 
+            text = "#" 
+        intervals [4]:
+            xmin = 6.614545635495078 
+            xmax = 11.057519361609728 
+            text = "considerando el período mil nueve sesenta y uno mil nueve noventa" 
+        intervals [5]:
+            xmin = 11.057519361609728 
+            xmax = 11.496548385929357 
+            text = "#" 
+        intervals [6]:
+            xmin = 11.496548385929357 
+            xmax = 15.623421214533874 
+            text = "normalmente empleado para designar los promedios climáticos" 
+        intervals [7]:
+            xmin = 15.623421214533874 
+            xmax = 16.202939526635784 
+            text = "#" 
+        intervals [8]:
+            xmin = 16.202939526635784 
+            xmax = 19.53956011146497 
+            text = "la temperatura media es de diecisiete" 
+        intervals [9]:
+            xmin = 19.53956011146497 
+            xmax = 20.277128872321946 
+            text = "#" 
+        intervals [10]:
+            xmin = 20.277128872321946 
+            xmax = 21.260553886797915 
+            text = "coma seis" 
+        intervals [11]:
+            xmin = 21.260553886797915 
+            xmax = 21.699582911117545 
+            text = "#" 
+        intervals [12]:
+            xmin = 21.699582911117545 
+            xmax = 23.157159271858713 
+            text = "grados centigrados" 
+        intervals [13]:
+            xmin = 23.157159271858713 
+            xmax = 23.508382491314418 
+            text = "#" 
+        intervals [14]:
+            xmin = 23.508382491314418 
+            xmax = 28.478191046612622 
+            text = "y la precipitación anual es de mil ciento cuarenta y seis milímetros" 
+        intervals [15]:
+            xmin = 28.478191046612622 
+            xmax = 29.056243368106195 
+            text = "#" 
+        intervals [16]:
+            xmin = 29.056243368106195 
+            xmax = 35.97534079138356 
+            text = "a lo largo del siglo veinte las temperaturas de la ciudad han aumentado considerablemente" 
+        intervals [17]:
+            xmin = 35.97534079138356 
+            xmax = 36.37924749375762 
+            text = "#" 
+        intervals [18]:
+            xmin = 36.37924749375762 
+            xmax = 38.363658683682345 
+            text = "debido a la isla de calor" 
+        intervals [19]:
+            xmin = 38.363658683682345 
+            xmax = 38.82024886897476 
+            text = "#" 
+        intervals [20]:
+            xmin = 38.82024886897476 
+            xmax = 40.506120322362136 
+            text = "desarrollo urbano" 
+        intervals [21]:
+            xmin = 40.506120322362136 
+            xmax = 40.94514934668177 
+            text = "#" 
+        intervals [22]:
+            xmin = 40.94514934668177 
+            xmax = 44.70323779485779 
+            text = "siendo actualmente dos grados centigrados superior" 
+        intervals [23]:
+            xmin = 44.70323779485779 
+            xmax = 45.07202217528628 
+            text = "#" 
+        intervals [24]:
+            xmin = 45.07202217528628 
+            xmax = 46.93350523840151 
+            text = "al de regiones cercanas" 
+        intervals [25]:
+            xmin = 46.93350523840151 
+            xmax = 47.47790122855785 
+            text = "#" 
+        intervals [26]:
+            xmin = 47.47790122855785 
+            xmax = 49.53255706237371 
+            text = "mucho menos urbanizadas" 
+        intervals [27]:
+            xmin = 49.53255706237371 
+            xmax = 50.07695305253006 
+            text = "#" 
+        intervals [28]:
+            xmin = 50.07695305253006 
+            xmax = 53.48381828125038 
+            text = "fundamentalmente las temperaturas nocturas" 
+        intervals [29]:
+            xmin = 53.48381828125038 
+            xmax = 53.79991917876051 
+            text = "#" 
+        intervals [30]:
+            xmin = 53.79991917876051 
+            xmax = 55.60975232699819 
+            text = "son las que han aumentado" 
+        intervals [31]:
+            xmin = 55.60975232699819 
+            xmax = 56.1892706391001 
+            text = "#" 
+        intervals [32]:
+            xmin = 56.1892706391001 
+            xmax = 61.44005776996286 
+            text = "lo que en verano suele dificultar el descanso nocturno de los porteños" 
+        intervals [33]:
+            xmin = 61.44005776996286 
+            xmax = 62.08982072595592 
+            text = "#" 
+        intervals [34]:
+            xmin = 62.08982072595592 
+            xmax = 65.6810424115926 
+            text = "las precipitaciones también se han acrecentado" 
+        intervals [35]:
+            xmin = 65.6810424115926 
+            xmax = 66.01470447007551 
+            text = "#" 
+        intervals [36]:
+            xmin = 66.01470447007551 
+            xmax = 68.20984959167366 
+            text = "desde mil nueve setenta y tres" 
+        intervals [37]:
+            xmin = 68.20984959167366 
+            xmax = 68.75424558183 
+            text = "#" 
+        intervals [38]:
+            xmin = 68.75424558183 
+            xmax = 73.10216064748904 
+            text = "como ya ocurrió en el anterior hemiciclo humedo" 
+        intervals [39]:
+            xmin = 73.10216064748904 
+            xmax = 73.45338386691178 
+            text = "#" 
+        intervals [40]:
+            xmin = 73.45338386691178 
+            xmax = 76.42122007103389 
+            text = "mil ocho setenta a mil nueve veinte" 
+        intervals [41]:
+            xmin = 76.42122007103389 
+            xmax = 77.504 
+            text = "#" 

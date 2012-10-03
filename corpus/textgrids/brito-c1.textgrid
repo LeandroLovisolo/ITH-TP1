@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 41.27755102040816 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ipu" 
+        xmin = 0 
+        xmax = 41.27755102040816 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.749426414480473 
+            text = "el pronostico del tiempo en la ciudad de buenos aires para el lunes es soleado" 
+        intervals [2]:
+            xmin = 4.749426414480473 
+            xmax = 5.317490150892346 
+            text = "#" 
+        intervals [3]:
+            xmin = 5.317490150892346 
+            xmax = 7.429865791661258 
+            text = "temperatura de veinti tres grados" 
+        intervals [4]:
+            xmin = 7.429865791661258 
+            xmax = 7.640860893757097 
+            text = "#" 
+        intervals [5]:
+            xmin = 7.640860893757097 
+            xmax = 9.739348903579629 
+            text = "humedad cuarenta por ciento" 
+        intervals [6]:
+            xmin = 9.739348903579629 
+            xmax = 10.351234699657562 
+            text = "#" 
+        intervals [7]:
+            xmin = 10.351234699657562 
+            xmax = 14.034729926286403 
+            text = "y vientos leves del este el marte parcialmente nublado" 
+        intervals [8]:
+            xmin = 14.034729926286403 
+            xmax = 14.593055427216932 
+            text = "#" 
+        intervals [9]:
+            xmin = 14.593055427216932 
+            xmax = 18.71775957227049 
+            text = "temperatura viente grados humedad sesenta por ciento" 
+        intervals [10]:
+            xmin = 18.71775957227049 
+            xmax = 19.23063997428807 
+            text = "#" 
+        intervals [11]:
+            xmin = 19.23063997428807 
+            xmax = 23.445950547286927 
+            text = "y vientos moderados del este en rio gallegos el lunes nublado" 
+        intervals [12]:
+            xmin = 23.445950547286927 
+            xmax = 24.108150560018487 
+            text = "#" 
+        intervals [13]:
+            xmin = 24.108150560018487 
+            xmax = 28.50879049185797 
+            text = "temperatura veinti dos grados humedad setenta por ciento" 
+        intervals [14]:
+            xmin = 28.50879049185797 
+            xmax = 29.02329393312244 
+            text = "#" 
+        intervals [15]:
+            xmin = 29.02329393312244 
+            xmax = 32.38929453439633 
+            text = "y vientos moderados a fuertes del sudoeste" 
+        intervals [16]:
+            xmin = 32.38929453439633 
+            xmax = 32.78856218913152 
+            text = "#" 
+        intervals [17]:
+            xmin = 32.78856218913152 
+            xmax = 34.21403043810451 
+            text = "el martes con lluvia" 
+        intervals [18]:
+            xmin = 34.21403043810451 
+            xmax = 34.75287946807232 
+            text = "#" 
+        intervals [19]:
+            xmin = 34.75287946807232 
+            xmax = 39.075231090940534 
+            text = "temperatura de dieciseis grados humedad ochenta por ciento" 
+        intervals [20]:
+            xmin = 39.075231090940534 
+            xmax = 39.52481296232935 
+            text = "#" 
+        intervals [21]:
+            xmin = 39.52481296232935 
+            xmax = 41.27755102040816 
+            text = "y vientos fuertes del sur" 
