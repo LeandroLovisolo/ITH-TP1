@@ -17,7 +17,6 @@ def get_corpus_data():
 
     return dicts
 
-
 def mean_word_length(ipu_filename):
     f = open(ipu_filename)
     lines = f.readlines()
@@ -34,7 +33,25 @@ def mean_word_length(ipu_filename):
     lengths = map(to_word_length, words)
     mean    = sum(lengths) / len(lengths)
 
-    return mean  
+    return mean
+
+def mean_f0(csv_filename):
+    f = open(csv_filename)
+    lines = f.readlines()
+    f.close()
+
+    get_fields      = lambda x: x.split(",")
+    get_f0s         = lambda x: x[3]
+    is_not_silence  = lambda x: x != "-1"
+
+    lines = lines[1:]   # remove headers
+    lines = map(get_fields, lines)
+    f0s   = map(get_f0s, lines)
+    f0s   = filter(is_not_silence, f0s)
+    f0s   = map(float, f0s)
+    mean  = sum(f0s) / len(f0s)
+
+    print mean
 
 def find_datum_in_corpus(student, subject, corpus):
     for datum in corpus:
@@ -55,6 +72,13 @@ def main():
     #     print "    foo: documentation"
     #     print "    bar: documentation"
     #     return
+
+    filenames = os.listdir("corpus/csvs")
+    fn = filenames[0]
+    print fn
+    mean_f0("corpus/csvs/" + fn)
+    return
+
 
     corpus_data = get_corpus_data()
 
