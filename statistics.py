@@ -127,9 +127,6 @@ def main():
             else:
                 def none_as_blank(x): return "" if x == None else str(x)
                 print none_as_blank(scripted) + "," + none_as_blank(natural)
-        return    
-
-    if operation == "natural-vs-scripted-mean-f0":
-        pass
+        return
 
 if __name__ == '__main__': main()
